@@ -1,0 +1,14 @@
+body {
+    padding: 20 px;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #111;
+}
+
+p, ul {
+    margin-top: 10px;
+}
+
+ul {
+    margin-left: 20px;
+}
